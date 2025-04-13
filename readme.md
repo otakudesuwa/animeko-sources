@@ -1,16 +1,10 @@
-
-### [Animeko](https://github.com/open-ani/animeko)第三方数据源仓库，个人编写，不定期更新，需要的自取。
-
-[官方数据源](https://github.com/creamycake-anime/ani-subs)
-
-[Animeko最新版本](https://github.com/open-ani/animeko/releases/latest)
-# ani-subs
+# animeko-subs
 
 可用于 [Animeko](https://github.com/open-ani/animeko) 的数据源订阅。
 
-## 用法
+## 使用说明
 
-设置中添加订阅：
+设置 - 数据源管理 - 数据源订阅 后的 + 添加订阅：
 
 - `https://sub.creamycake.org/v1/css1.json`
 - `https://sub.creamycake.org/v1/bt1.json`
